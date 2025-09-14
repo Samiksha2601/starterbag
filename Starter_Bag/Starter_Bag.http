@@ -1,0 +1,6 @@
+@Starter_Bag_HostAddress = http://localhost:5153
+
+GET {{Starter_Bag_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

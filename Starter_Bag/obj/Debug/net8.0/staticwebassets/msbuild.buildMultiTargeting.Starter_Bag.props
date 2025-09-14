@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Starter_Bag.props" />
+</Project>
